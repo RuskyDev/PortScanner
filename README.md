@@ -8,8 +8,9 @@ PortScanner allows you to quickly scan ports on any IP address.
 
 ## Usage:
 ```sh
-R:\Data\Programming\Projects\PortScanner\>py src/main.py
-Usage: main.py --target-ip=<IP> --start-port=<start> --end-port=<end>
+$ git clone https://github.com/RuskyDev/PortScanner
+$ cd PortScanner/src
+$ python3 main.py --target-ip=<IP> --start-port=<start> --end-port=<end>
 ```
 
 ## Contributions & Bug Reports
